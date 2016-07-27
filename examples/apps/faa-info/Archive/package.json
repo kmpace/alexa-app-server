@@ -1,0 +1,19 @@
+{
+  "name": "alexa-airport",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "alexa-app": "^2.3.4",
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "lodash": "^4.13.1",
+    "mocha": "^2.5.3",
+    "request-promise": "^3.0.0"
+  }
+}
